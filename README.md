@@ -1,1 +1,1 @@
-This is a web template for  blog 
+This is a blog web template 
