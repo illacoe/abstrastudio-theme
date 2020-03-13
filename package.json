@@ -1,0 +1,15 @@
+{
+  "name": "abstrastudio-theme",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "Javier Collao <jav.acollao@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
