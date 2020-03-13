@@ -1,0 +1,1 @@
+This is a web template for  blog 
