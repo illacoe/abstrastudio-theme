@@ -9,7 +9,11 @@
   <body>
     <div class="app">
       <div class="hero">
-        <img class="hero__img" src="./assets/img/hero.jpg" alt="" srcset="" />
+        <picture class="hero__img">
+          <source type="image/webp" srcset="./assets/img/hero.webp">
+          <source type="image/jpg" srcset="./assets/img/hero.jpg"> 
+          <img src="./assets/img/hero.jpg" class="hero__img" data-speed="-0.25" alt="">
+      </picture>
         <div class="hero__desc">
           <p class="hero__text">True wealth is knowledge</p>
         </div>
