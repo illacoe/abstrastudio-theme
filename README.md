@@ -1,3 +1,3 @@
-# Template
+# Website
 
-- [DEMO](https://illacoe.github.io/test-theme/)
+- [DEMO](https://www.illacoe.com)
